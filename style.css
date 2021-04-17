@@ -1,0 +1,30 @@
+/*!
+Theme Name: Stenkumla Bygdegård
+Theme URI: https://www.github.com/cleanly1
+Author: Cleanly1
+Author URI: https://www.github.com/cleanly1
+Description: This is a theme for Stenkumla Bygdegård
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sbgf
+Tags: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+.navigation {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+
+.menu {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	list-style: none;
+}
